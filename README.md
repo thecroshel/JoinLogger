@@ -3,4 +3,4 @@
 
 
 
-sufficiently descriptive
+sufficiently descriptive (the log will be in "SCP Secret Laboratory Dedicated Server" folder)
