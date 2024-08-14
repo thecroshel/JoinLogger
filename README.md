@@ -1,5 +1,5 @@
 # JoinLogger
-![image](https://github.com/user-attachments/assets/93f1d264-5326-4b5a-97fd-4cb75e394df4)
+![image](https://github.com/user-attachments/assets/8530efd1-19e9-4810-b13f-7c468d8cb70b)
 
 
 
