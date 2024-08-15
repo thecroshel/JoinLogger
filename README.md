@@ -5,4 +5,4 @@
 
 a plugin that keeps log of who enters (and leaves) the server in a file.
 
-(if you not change config of plugin, the log file will be in "SCP Secret Laboratory Dedicated Server" folder)
+(the log file will be in "SCP Secret Laboratory Dedicated Server" folder)
